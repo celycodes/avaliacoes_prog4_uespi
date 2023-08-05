@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'src/screen/jokenpo_home_page.dart';
 import 'src/screen/splash_screen.dart';
 
