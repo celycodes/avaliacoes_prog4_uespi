@@ -13,7 +13,7 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      <img alt="PayFlow" title="Frases do dia"  src="https://github.com/celenny/frases_do_dia_app/assets/70456452/2205d471-e99b-40b0-903b-d1122dcae01f" />
+      <img alt="PayFlow" title="app nasa"  src="https://github.com/celenny/frases_do_dia_app/assets/70456452/2205d471-e99b-40b0-903b-d1122dcae01f" />
    </p>
 
 <div>
