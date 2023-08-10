@@ -1,12 +1,19 @@
 <h1 align="center">Jokenpo Game</h1>
 <p align="center">
-      <img src="/assets/images/logo-jokenpo.png" width="200" alt="Logo Frases do dia"/>
+      <img src="https://github.com/celycodes/avaliacoes_prog4_uespi/assets/70456452/01ff350e-4003-4161-a270-dbb950c4548c" width="200" alt="Logo Frases do dia"/>
 </p>
 <h2 align="center">Sobre 📖</h2>
    
 <p align="center">
   1° Avaliação de Programação 4 - App Jokenpo<br> Grupo: Celenny Cristhyne, João Luiz Mineiro
 </p>
+
+
+<h2 align="center">Layout 🎨</h2>
+
+   <p align="center">
+      <img alt="PayFlow" title="app nasa"  src="https://github.com/celycodes/avaliacoes_prog4_uespi/assets/70456452/620c553b-1c60-45de-a544-042d0704396e" />
+   </p>
 
 <h2 align="center">Como Usar 🤔</h2>
 
